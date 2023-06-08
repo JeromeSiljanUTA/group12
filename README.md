@@ -7,3 +7,5 @@ We have chosen a data set containing information on the pizza sales of Plato's P
 2. How many pizzas are we making during peak periods?
 3. How well are we utilizing our seating capacity? 
 4. Are pizza sales higher on the weekends compared to the weekdays?
+
+Preliminary Hypothesis: Plato's will be busiest on the weekends.
