@@ -1,10 +1,7 @@
 # group12
-Things are going OK here at Plato's, but there's room for improvement. We've been collecting transactional data for the past year, but really haven't been able to put it to good use. Hoping you can analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
-
-Here are some questions that we'd like to be able to answer:
+We have chosen a data set containing information on the pizza sales of Plato's Pizzas, a small pizzeria with a seating capacity of 15 tables and 60 seats total. The dataset contains all transactional data collected over the past year 2021. The questions we would like to analyze in this project are as follows:
 
 What days and times do we tend to be busiest?
 How many pizzas are we making during peak periods?
-What are our best and worst-selling pizzas?
-What's our average order value?
 How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
+Are pizza sales higher on the weekends compared to the weekdays?
